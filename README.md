@@ -45,4 +45,7 @@ To install the required packages, run the following R code:
 
 If you use the code or analysis workflow in this repository, please cite our study:
 
-Wenjing Kuang(#), Hao Cui(#), Qionghua Li, Shumin Duan, Dan Liu, Tiannan Liu, Jiongke Wang, Wei Li, Qianming Chen, Jing Li(*), Xin Zeng(*), Taiwen Li(*). Single-cell and molecular insights into the immunopathogenic mechanisms of oral mucous membrane pemphigoid. Computational and Structural Biotechnology Journal. 2025.
+Wenjing Kuang(#), Hao Cui(#), Qionghua Li, Shumin Duan, Dan Liu, Tiannan Liu, Jiongke Wang, Wei Li, Qianming Chen, Jing Li(), Xin Zeng(), Taiwen Li(*).
+Single-cell and molecular insights into the immunopathogenic mechanisms of oral mucous membrane pemphigoid
+Computational and Structural Biotechnology Journal. 2025.
+DOI: 10.1016/j.csbj.2025.10.062
